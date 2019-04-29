@@ -1,0 +1,20 @@
+  
+   .navbar-brand {
+       float: left;
+       margin-top: 0;
+   }
+   h4 {
+    margin-left: 50px;
+   }
+   h6 {
+    margin-left: 50px;
+   }
+   .col-6 {
+       padding-left:485px;
+   }
+   img {
+    max-width: 100%;
+       height: auto;
+       width: auto\9;
+       margin-left: 120px;
+}

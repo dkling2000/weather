@@ -1,0 +1,14 @@
+  
+   .navbar-brand {
+       float: left;
+       margin-top: 0;
+   }
+   h4 {
+    margin-left: 50px;
+   }
+   p {
+    position: absolute;
+    top: 550px;
+    left:330px;
+    font-size: 15px;
+   }
